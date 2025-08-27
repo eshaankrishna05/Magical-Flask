@@ -1,0 +1,20 @@
+6 4
+AA
+BB
+CC
+2 1
+DD
+EE
+2 2
+FF
+AA
+2 3
+BB
+CC
+2 4
+DD
+EE
+2 5
+FF
+AA
+2 6
